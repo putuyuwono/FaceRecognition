@@ -1,0 +1,11 @@
+﻿{
+	"serveraddress1":"http://localhost/OpenScreenMarketPlace1/index.php/",
+    "serveraddress2": "http://localhost/OpenScreenMarketPlace2/index.php/",	
+    "screen_id": "1",
+	"location":"4,3",
+	"directorient":"Y-",
+	"centroidbound":"150,490",
+	"facesizebound":"200",
+	"registrationinterval":1,
+	"recogcompensaation":2
+}
